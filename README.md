@@ -5,7 +5,7 @@
 #
 #
 
-<img align="right" alt="Ethical Hacker" width="400" src="https://i.imgur.com/Kn0CZNk.gif">
+<img align="right" alt="Ethical Hacker" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4eda4e4-9f65-44c0-abf1-0b08d588f21c/dblgueu-f24daf2d-9f9c-47af-8575-02c5ca5d8bed.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0ZWRhNGU0LTlmNjUtNDRjMC1hYmYxLTBiMDhkNTg4ZjIxY1wvZGJsZ3VldS1mMjRkYWYyZC05ZjljLTQ3YWYtODU3NS0wMmM1Y2E1ZDhiZWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ygl9dPpPLuNCYHup0nyl_3OWdN5mJRQX8W_kjBvw6Mw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapauserver&label=Profile%20views&color=0e75b6&style=flat" alt="tapauserver" /> </p>
 
